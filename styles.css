@@ -1,0 +1,153 @@
+/* @override 
+	http://www.nextmanlyferry.com/styles.css
+*/
+
+img.addthis {
+	padding-left: 10px;
+	margin-bottom: -3px;
+}
+
+
+
+body {
+	font-family: Helvetica, Geneva, sans-serif;
+	color: #333;
+	letter-spacing: -1px;
+}
+
+h1 {
+	letter-spacing: -1px;
+	font-size: 28px;
+	font-weight: bold;
+}
+
+h1 a {
+	font-weight: bold;
+	text-decoration: none;
+	color: #333;
+}
+
+p {
+		letter-spacing: 0px;
+	font: 11px/14px "Lucida Grande", Tahoma, Lucida, sans-serif;
+}
+
+ul {
+		letter-spacing: 0px;
+	font: 11px/14px "Lucida Grande", Tahoma, Lucida, sans-serif;
+}
+
+
+a {
+	color: #003700;
+}
+
+a:hover {
+	color: #5c9f5c;
+}
+
+a:visited {
+	color: #003700;
+}
+
+
+#content {
+	margin: 20px;
+	width: 500px;
+}
+
+.infocontainer {
+	width: 460px;
+	display: block;
+	height: 160px;
+}
+
+#outbound {
+	float: left;
+	width: 190px;
+	display: inline;
+}
+
+#inbound {
+	float: right;
+	width: 190px;
+}
+
+.routename {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.times {
+	margin-top: 10px;
+	line-height: 27px;
+	width: 180px;
+}
+
+.timenext {
+	font-size: 22px;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+.eventtype {
+}
+
+.timenextplusone {
+	font-size: 20px;
+	color: #666;
+	margin-bottom: 8px;
+}
+
+.timemissed {
+	font-size: 18px;
+	color: #999;
+}
+
+.time {
+	margin-left: 15px;
+}
+
+.timemeta {
+	font-size: 12px;
+}
+
+.timenow {
+	font-weight: bold;
+	font-size: 18px;
+	display: block;
+}
+
+.timetableused {
+}
+
+#footer {
+	font-size: 12px;
+	clear: both;
+	color: #999;
+	height: 25px;
+	padding-top: 15px;
+}
+
+#disclaimer {
+	margin-top: 10px;
+	font-size: 11px;
+	letter-spacing: -1px;
+}
+
+#footer a {
+	color: #003700;
+}
+
+#footer a:hover {
+	color: #5c9f5c;
+}
+
+#footer a:visited {
+	color: #003700;
+}
+
+
+
+
+
